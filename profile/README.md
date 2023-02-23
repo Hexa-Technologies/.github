@@ -14,5 +14,5 @@ Currently, Hexa is focused on making a Web app based off of [SNCF](https://en.wi
 
 We are two French student in Computer Sciences of the [IUT de Montpellier](https://fr.wikipedia.org/wiki/Institut_universitaire_de_technologie_de_Montpellier-Sète).
 
-- Matis Byar
-- Valentin Vanhove
+- [Matis Byar](https://github.com/matisbyar)
+- [Valentin Vanhove](https://github.com/ValentinVnh)
